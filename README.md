@@ -5,7 +5,7 @@ This repository contains my LeetCode solutions in **C++**.
 ## About Me
 
 **Shayan Ghosh**  
-B.Tech CSE Student  
+B.Tech Computer Science & Engineering Student  
 Abacus Institute of Engineering & Management
 
 ## Language
