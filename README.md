@@ -1,4 +1,4 @@
-# Top LeetCode Solutions
+# LeetCode solutions for placement preparation
 <img width="1008" height="504" alt="Image" src="https://github.com/user-attachments/assets/098dfdc9-8068-4efb-a8ad-d29a64d2f8dc" />
 This repository contains my LeetCode solutions in **C++**.
 
