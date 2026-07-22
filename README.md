@@ -31,6 +31,11 @@ Abacus Institute of Engineering & Management
 | 13 | Squares of a Sorted Array | 977 | `SquaresofaSortedArray.cpp` |
 | 14 | Pairs of Songs With Total Durations Divisible by 60 | 1010 | `PairsofSongsWithTotalDurationsDivisibleby60.cpp` |
 | 15 | Running Sum of 1d Array | 1480 | `RunningSumof1dArray.cpp` |
+| 16 | Lucky Numbers in a Matrix | 1380 | `LuckyNumbersinaMatrix.cpp` |
+| 17 | Piece of Cake After Horizontal and Vertical Cuts | 1465 | `PieceofCakeAfterHorizontalandVerticalCuts.cpp` |
+| 18 | Substrings of Size Three with Distinct Characters | 1876 | `SubstringsofSizeThreewithDistinctCharacters.cpp` |
+| 19 | Insert Delete GetRandom O(1) | 380 | `InsertDeleteGetRandomO(1).cpp` |
+| 20 | Sort the Students by Their Kth Score | 2545 | `SorttheStudentsbyTheirKthScore.cpp` |
 
 ## Repository Structure
 
@@ -41,21 +46,25 @@ Top_LeetCode/
 ├── FindPivotIndex.cpp
 ├── FindtheDuplicateNumber.cpp
 ├── FirstMissingPositive.cpp
+├── InsertDeleteGetRandomO(1).cpp
 ├── MajorityElement.cpp
+├── LuckyNumbersinaMatrix.cpp
 ├── MergeSortedArray.cpp
 ├── PairsofSongsWithTotalDurationsDivisibleby60.cpp
 ├── Pascal'sTriangle.cpp
+├── PieceofCakeAfterHorizontalandVerticalCuts.cpp
 ├── ProductofArrayExceptSelf.cpp
 ├── RemoveDuplicatesfromSortedArray.cpp
 ├── RunningSumof1dArray.cpp
+├── SorttheStudentsbyTheirKthScore.cpp
 ├── SquaresofaSortedArray.cpp
+├── SubstringsofSizeThreewithDistinctCharacters.cpp
 ├── TwoSum.cpp
 ├── ValidPalindrome.cpp
 └── README.md
 ```
 
 ## Notes
-
 - More problems will be added regularly.
 - Each file contains the solution for a specific LeetCode problem.
 - Solutions focus on clean and optimal approaches.
@@ -72,11 +81,16 @@ Top_LeetCode/
 - 169. Majority Element
 - 238. Product of Array Except Self
 - 287. Find the Duplicate Number
+- 380. Insert Delete GetRandom O(1)
 - 509. Fibonacci Number
 - 724. Find Pivot Index
 - 977. Squares of a Sorted Array
 - 1010. Pairs of Songs With Total Durations Divisible by 60
+- 1380. Lucky Numbers in a Matrix
+- 1465. Piece of Cake After Horizontal and Vertical Cuts
 - 1480. Running Sum of 1d Array
+- 1876. Substrings of Size Three with Distinct Characters
+- 2545. Sort the Students by Their Kth Score
 
 ---
 Made by **Shayan Ghosh**
