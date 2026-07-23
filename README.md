@@ -36,25 +36,47 @@ Abacus Institute of Engineering & Management
 | 18 | Substrings of Size Three with Distinct Characters | 1876 | `SubstringsofSizeThreewithDistinctCharacters.cpp` |
 | 19 | Insert Delete GetRandom O(1) | 380 | `InsertDeleteGetRandomO(1).cpp` |
 | 20 | Sort the Students by Their Kth Score | 2545 | `SorttheStudentsbyTheirKthScore.cpp` |
+| 21 | Can Place Flowers | 605 | `CanPlaceFlowers.cpp` |
+| 22 | Count Number of Distinct Integers After Reverse Operations | 2442 | `CountNumberofDistinctIntegersAfterReverseOperations.cpp` |
+| 23 | Distribute Candies | 575 | `DistributeCandies.cpp` |
+| 24 | Greatest Common Divisor of Strings | 1071 | `GreatestCommonDivisorofStrings.cpp` |
+| 25 | Maximum Sum of an Hourglass | 2428 | `MaximumSumofanHourglass.cpp` |
+| 26 | Merge Strings Alternately | 1768 | `MergeStringsAlternately.cpp` |
+| 27 | Number of Recent Calls | 933 | `NumberofRecentCalls.cpp` |
+| 28 | Partition Array According to Given Pivot | 2161 | `PartitionArrayAccordingtoGivenPivot.cpp` |
+| 29 | Partition Labels | 763 | `PartitionLabels.cpp` |
+| 30 | Reverse Vowels of a String | 345 | `ReverseVowelsofaString.cpp` |
+| 31 | Reverse Words in a String | 151 | `ReverseWordsinaString.cpp` |
 
 ## Repository Structure
 
 ```text
 Top_LeetCode/
 ├── BestTimetoBuyandSellStock.cpp
+├── CanPlaceFlowers.cpp
+├── CountNumberofDistinctIntegersAfterReverseOperations.cpp
+├── DistributeCandies.cpp
 ├── FibonacciNumber.cpp
 ├── FindPivotIndex.cpp
 ├── FindtheDuplicateNumber.cpp
 ├── FirstMissingPositive.cpp
+├── GreatestCommonDivisorofStrings.cpp
 ├── InsertDeleteGetRandomO(1).cpp
-├── MajorityElement.cpp
 ├── LuckyNumbersinaMatrix.cpp
+├── MajorityElement.cpp
+├── MaximumSumofanHourglass.cpp
 ├── MergeSortedArray.cpp
+├── MergeStringsAlternately.cpp
+├── NumberofRecentCalls.cpp
 ├── PairsofSongsWithTotalDurationsDivisibleby60.cpp
 ├── Pascal'sTriangle.cpp
+├── PartitionArrayAccordingtoGivenPivot.cpp
+├── PartitionLabels.cpp
 ├── PieceofCakeAfterHorizontalandVerticalCuts.cpp
 ├── ProductofArrayExceptSelf.cpp
 ├── RemoveDuplicatesfromSortedArray.cpp
+├── ReverseVowelsofaString.cpp
+├── ReverseWordsinaString.cpp
 ├── RunningSumof1dArray.cpp
 ├── SorttheStudentsbyTheirKthScore.cpp
 ├── SquaresofaSortedArray.cpp
@@ -91,6 +113,17 @@ Top_LeetCode/
 - 1480. Running Sum of 1d Array
 - 1876. Substrings of Size Three with Distinct Characters
 - 2545. Sort the Students by Their Kth Score
+- 605. Can Place Flowers
+- 2442. Count Number of Distinct Integers After Reverse Operations
+- 575. Distribute Candies
+- 1071. Greatest Common Divisor of Strings
+- 2428. Maximum Sum of an Hourglass
+- 1768. Merge Strings Alternately
+- 933. Number of Recent Calls
+- 2161. Partition Array According to Given Pivot
+- 763. Partition Labels
+- 345. Reverse Vowels of a String
+- 151. Reverse Words in a String
 
 ---
 Made by **Shayan Ghosh**
