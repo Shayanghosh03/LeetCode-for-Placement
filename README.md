@@ -47,16 +47,25 @@ Abacus Institute of Engineering & Management
 | 29 | Partition Labels | 763 | `PartitionLabels.cpp` |
 | 30 | Reverse Vowels of a String | 345 | `ReverseVowelsofaString.cpp` |
 | 31 | Reverse Words in a String | 151 | `ReverseWordsinaString.cpp` |
+| 32 | Battleships in a Board | 419 | `BattleshipsinaBoard.cpp` |
+| 33 | Find All Duplicates in an Array | 442 | `FindAllDuplicatesinanArray.cpp` |
+| 34 | Design a Stack With Increment Operation | 1381 | `DesignaStackWithIncrementOperation.cpp` |
+| 35 | Check if Number is a Sum of Powers of Three | 1780 | `CheckifNumberisaSumofPowersofThree.cpp` |
+| 36 | Optimal Partition of String | 2405 | `OptimalPartitionofString.cpp` |
 
 ## Repository Structure
 
 ```text
 Top_LeetCode/
+├── BattleshipsinaBoard.cpp
 ├── BestTimetoBuyandSellStock.cpp
 ├── CanPlaceFlowers.cpp
+├── CheckifNumberisaSumofPowersofThree.cpp
 ├── CountNumberofDistinctIntegersAfterReverseOperations.cpp
+├── DesignaStackWithIncrementOperation.cpp
 ├── DistributeCandies.cpp
 ├── FibonacciNumber.cpp
+├── FindAllDuplicatesinanArray.cpp
 ├── FindPivotIndex.cpp
 ├── FindtheDuplicateNumber.cpp
 ├── FirstMissingPositive.cpp
@@ -68,6 +77,7 @@ Top_LeetCode/
 ├── MergeSortedArray.cpp
 ├── MergeStringsAlternately.cpp
 ├── NumberofRecentCalls.cpp
+├── OptimalPartitionofString.cpp
 ├── PairsofSongsWithTotalDurationsDivisibleby60.cpp
 ├── Pascal'sTriangle.cpp
 ├── PartitionArrayAccordingtoGivenPivot.cpp
@@ -124,6 +134,11 @@ Top_LeetCode/
 - 763. Partition Labels
 - 345. Reverse Vowels of a String
 - 151. Reverse Words in a String
+- 419. Battleships in a Board
+- 442. Find All Duplicates in an Array
+- 1381. Design a Stack With Increment Operation
+- 1780. Check if Number is a Sum of Powers of Three
+- 2405. Optimal Partition of String
 
 ---
 Made by **Shayan Ghosh**
